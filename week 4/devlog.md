@@ -40,3 +40,5 @@
 - Focusing on learning how to implement guardrails for my task on Team Summary (Team 2)
 - reaching out to more people for coffee chats/connections
 - studying more DSA on the side outside of work and task hours
+- Reach out to more people on LinkedIn and continue to make connections with Recruiters. 
+- Reach out to CS professors from my old college and ask for more advice on how to read hard PHD level papers
